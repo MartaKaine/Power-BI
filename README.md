@@ -21,6 +21,27 @@ The final reports allow users to explore data dynamically using filters and slic
 
 ---
 
+## 🔗 Dashboards
+
+👉 [Sales & Profit](https://b2wcompletetraining057-my.sharepoint.com/:u:/g/personal/martarutkowska-kaine_bootcamp_leepgroup_com/IQCuAAm5jIYlTL-Vg-O8i5xeAX1QJynR_5p_eZWAv9IqXrg?e=tfsWep)
+
+<img width="720" height="408" alt="image" src="https://github.com/user-attachments/assets/1f793849-a1f9-4580-9aa9-3709b03246fb" />
+
+
+
+👉 [Finance Report](https://b2wcompletetraining057-my.sharepoint.com/:u:/g/personal/martarutkowska-kaine_bootcamp_leepgroup_com/IQBp89T8v2HpSLmOVV2xzW53ARJmdIGZnDI1GwL5WbMKto0?e=6c40zY)
+
+<img width="720" height="408" alt="image2" src="https://github.com/user-attachments/assets/951a6dbf-50cf-4167-8f75-59acae9b9ce5" />
+
+👉 Others:
+
+<img width="720" height="408" alt="image5" src="https://github.com/user-attachments/assets/2272991f-41ac-4e6e-8655-a59b2a8c57e4" />
+
+<img width="720" height="408" alt="image" src="https://github.com/user-attachments/assets/a0bc0ad8-cc40-4fe2-884a-5a0ecf4f6943" />
+
+
+---
+
 ## 🛠 Skills Demonstrated
 
 ### Data Transformation (Power Query)
